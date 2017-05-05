@@ -1,0 +1,17 @@
+.input-group {
+  color: purple;
+  font-style: italic;
+  font-family: cursive;
+}
+
+h1, h3 {
+  color: purple;
+  text-align: center;
+  font-style: italic;
+  font-family: cursive;
+  font-size: 30px;
+}
+
+body {
+  background-color: lightgreen;
+}
